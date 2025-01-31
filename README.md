@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,react,vite,tailwind,postgres" />
+  </a>
+</p>
+
 # E-Commerce Projesi
 
 Bu proje, modern bir e-ticaret platformu sunmak için Spring Boot ve React kullanılarak geliştirilmiş full-stack bir web uygulamasıdır.
@@ -98,25 +104,3 @@ Frontend http://localhost:5173 adresinde çalışacaktır.
 ## API Dokümantasyonu
 
 API dokümantasyonuna http://localhost:8080/swagger-ui/index.html adresinden erişebilirsiniz.
-
-## Katkıda Bulunma
-
-1. Bu projeyi fork edin
-2. Feature branch'i oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'feat: Add some amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
-
-## İletişim
-
-Proje Sahibi - [@KoiosTR](https://github.com/KoiosTR)
-
-Proje Linki: [https://github.com/KoiosTR/E-CommerceSpringReact](https://github.com/KoiosTR/E-CommerceSpringReact) 
-=======
-# E-CommerceSpringReact
- E-commerce site I built with Spring Boot and React
->>>>>>> 621fce722af12978e35116949be86f67c25eeebb
