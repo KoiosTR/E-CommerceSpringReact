@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Projesi
 
 Bu proje, modern bir e-ticaret platformu sunmak için Spring Boot ve React kullanılarak geliştirilmiş full-stack bir web uygulamasıdır.
@@ -115,3 +116,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 Proje Sahibi - [@KoiosTR](https://github.com/KoiosTR)
 
 Proje Linki: [https://github.com/KoiosTR/E-CommerceSpringReact](https://github.com/KoiosTR/E-CommerceSpringReact) 
+=======
+# E-CommerceSpringReact
+ E-commerce site I built with Spring Boot and React
+>>>>>>> 621fce722af12978e35116949be86f67c25eeebb
