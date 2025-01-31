@@ -1,0 +1,4 @@
+logging:
+  level:
+    com.ardagonca.e_commerce: DEBUG
+    org.springframework.security: DEBUG 

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^6.4.2",
+    "@mui/material": "^6.4.2",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "react-router-dom": "^7.1.4"
+  }
+}
