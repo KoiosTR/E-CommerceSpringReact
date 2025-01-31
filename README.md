@@ -104,3 +104,12 @@ Frontend http://localhost:5173 adresinde çalışacaktır.
 ## API Dokümantasyonu
 
 API dokümantasyonuna http://localhost:8080/swagger-ui/index.html adresinden erişebilirsiniz.
+
+## Admin Panel
+
+Ürün ekleme paneline erişmek için alttaki hesaba girmelisiniz.
+
+```
+Email : admin@example.com
+Şifre : admin123
+```
